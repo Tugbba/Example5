@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: purple;
+}
+
+h4{
+    color: darkgoldenrod;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.navbar a {
+    margin-right: 13px;    /* Sağda 20px boşluk bırakmak için */
+}
+.navbar a:last-child {
+    margin-right: 0;       /* Son linkin sağında boşluk bırakmamak için */
+}
